@@ -7,7 +7,7 @@ package Chapter6;
 	
 	public void setYear(int year) {
 		this.year = year ;
-	}
+	   }  
 	
 	public void printThis() {
 		System.out.println(this);
