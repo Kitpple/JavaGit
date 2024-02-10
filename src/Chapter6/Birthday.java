@@ -10,7 +10,7 @@ package Chapter6;
 	   }  
 	
 	public void printThis() {
-		System.out.println(this);
+		System.out.println(this)  ;
 	}
 
 }
